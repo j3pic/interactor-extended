@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    interactor-extended (3.1.0)
+      interactor (= 3.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    interactor (3.1.0)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.7)
+  interactor-extended!
+  rake (~> 10.3)
+
+BUNDLED WITH
+   1.16.1
